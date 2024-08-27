@@ -7,3 +7,7 @@ Tools Used: Google Sheets.
 Testing Type: Manual Testing.
 
 Testing Techniques: Black Box Testing, Boundary Value Analysis, Exploratory Testing.
+
+Module Tested: Create Account.
+
+Sub Modules Tested: Name, Email, Mobile Number, Password, Confirm Password.
